@@ -4,6 +4,7 @@
   "displayName": "kv.Entities",
   "description": "ECS framework",
   "unity": "2021.3",
+  "dependencies": {},
   "author": {
     "name": "Kirill Vorotov",
     "email": "k.vorotov@gmail.com",

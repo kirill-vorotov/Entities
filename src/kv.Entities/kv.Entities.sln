@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kv.Entities", "kv.Entities\kv.Entities.csproj", "{8AAA277C-FA11-4812-A152-82A0FE0084B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kv.Entities.SourceGen", "kv.Entities.SourceGen\kv.Entities.SourceGen.csproj", "{CCFF1D17-1A33-4011-8334-E96627F47794}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		UNITY_ENGINE|Any CPU = UNITY_ENGINE|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AAA277C-FA11-4812-A152-82A0FE0084B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AAA277C-FA11-4812-A152-82A0FE0084B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AAA277C-FA11-4812-A152-82A0FE0084B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AAA277C-FA11-4812-A152-82A0FE0084B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AAA277C-FA11-4812-A152-82A0FE0084B5}.UNITY_ENGINE|Any CPU.ActiveCfg = UNITY_ENGINE|Any CPU
+		{8AAA277C-FA11-4812-A152-82A0FE0084B5}.UNITY_ENGINE|Any CPU.Build.0 = UNITY_ENGINE|Any CPU
+		{CCFF1D17-1A33-4011-8334-E96627F47794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCFF1D17-1A33-4011-8334-E96627F47794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCFF1D17-1A33-4011-8334-E96627F47794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCFF1D17-1A33-4011-8334-E96627F47794}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCFF1D17-1A33-4011-8334-E96627F47794}.UNITY_ENGINE|Any CPU.ActiveCfg = UNITY_ENGINE|Any CPU
+		{CCFF1D17-1A33-4011-8334-E96627F47794}.UNITY_ENGINE|Any CPU.Build.0 = UNITY_ENGINE|Any CPU
+	EndGlobalSection
+EndGlobal
